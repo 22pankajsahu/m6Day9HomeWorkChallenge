@@ -6,6 +6,7 @@ This simple web application allows you to input text into a textbox and append i
 
 - [Introduction](#introduction)
 - [Demo](#demo)
+- [Screenshots](#screenshots)
 - [Usage](#usage)
 - [Technologies Used](#technologies-used)
 - [JavaScript Functionality](#javascript-functionality)
@@ -18,6 +19,15 @@ The purpose of this project is to showcase how you can use JavaScript and DOM ma
 ## Demo
 
 You can see a live demo of the project [here](https://22pankajsahu.github.io/m6Day9HomeWorkChallenge/).
+
+## Screenshots
+
+Include relevant screenshots of the application here.
+
+![image](https://github.com/22pankajsahu/m6Day9HomeWorkChallenge/assets/135128502/139b2025-caba-418e-8672-51a2780be80b)
+
+![image](https://github.com/22pankajsahu/m6Day9HomeWorkChallenge/assets/135128502/3988f7de-fa62-4570-a264-0aa3568fcfcc)
+
 
 ## Usage
 
